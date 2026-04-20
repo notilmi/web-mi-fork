@@ -16,6 +16,10 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'manajemeninformatika.polsri.ac.id',
       },
+      {
+        protocol: 'https',
+        hostname: 'tmqfm74qlenkxezz.public.blob.vercel-storage.com',
+      },
     ],
   },
   experimental: {
